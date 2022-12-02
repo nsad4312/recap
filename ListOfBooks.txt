@@ -2,3 +2,4 @@ dome
 family 
 power
 love
+hate
