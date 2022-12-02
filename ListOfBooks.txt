@@ -4,3 +4,6 @@ power
 love
 hate
 
+Tora
+
+
