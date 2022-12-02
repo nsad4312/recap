@@ -4,3 +4,5 @@ power
 love
 hate
 Bible
+Tora
+
